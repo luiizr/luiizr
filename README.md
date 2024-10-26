@@ -35,7 +35,7 @@
   </div>
 </div>
 
-<br><br><br>
+<br><br><br><br><br>
 
 ## 📊 &nbsp;Projetos em Destaque
 - **[Sistema Escolar](https://github.com/luiizr/SistemaEscolar_poo.java)**: Um sistema completo em Java que permite criar turmas, adicionar alunos e calcular médias de notas.
