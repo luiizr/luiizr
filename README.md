@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiizr&color=09A5A5" alt="Curiosos " /> </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luiizr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="134" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euBertinho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" height="134" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luiizr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="132" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euBertinho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" height="132" alt="languages graph" />
 </div>
 
 <p align="center">Estou cursando o 3º Semestre em <Strong><em>Análise e Desenvolvimento de Sistemas</em></Strong> pelo <Strong><em>IFRN</em></Strong>, uma jornada que já me abriu muitos horizontes e me permitiu abrir meus olhos com relação a muitas oportunidades. Quando não estou codando, estou jogando, lendo ou praticando esportes :D</p>
