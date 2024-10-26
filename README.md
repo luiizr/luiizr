@@ -1,5 +1,4 @@
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Beto</h1>
-<br>
 <img align="right" height="590em" src= "https://raw.githubusercontent.com/gist/luiizr/80ccfdb8c92acf020678eb204bb5f242/raw/4b721f9d24125237573618391ad7ca6ce32117aa/Githubcard.svg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiizr&color=09A5A5" alt="Curiosos " /> </p>
 
@@ -21,9 +20,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
   </div>
   
-  <div align="center">
-    <h3>Conecte-se comigo</h3>
-    <a href="https://www.instagram.com/luiiz.rs/" target="_blank" style="margin: 0 15px;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="Instagram logo"/>
+<div align="center">
+  <h3>Conecte-se comigo</h3>
+  <div style="text-align: center;">
+    <a href="https://www.instagram.com/luiiz.rs/" target="_blank" style="margin: 0 15px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="Instagram logo"/>
     </a>
     <a href="https://www.linkedin.com/in/luiz-roberto-desenvolvedor/" target="_blank" style="margin: 0 15px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo"/>
@@ -32,6 +33,7 @@
       <img src="https://i.ebayimg.com/images/g/2CQAAOSwo41mrpGl/s-l1600.jpg" height="30" alt="Discord logo"/>
     </a>
   </div>
+</div>
 
 <br><br><br>
 
