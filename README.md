@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Beto</h1>
+<img align="right" height="590em" src= "https://raw.githubusercontent.com/gist/luiizr/80ccfdb8c92acf020678eb204bb5f242/raw/4b721f9d24125237573618391ad7ca6ce32117aa/Githubcard.svg"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luiizr&color=09A5A5" alt="Curiosos " /> </p>
 
-<!--
-**luiizr/luiizr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luiizr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euBertinho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">Estou cursando o 3º Semestre em <Strong><em>Análise e Desenvolvimento de Sistemas</em></Strong> pelo <Strong><em>IFRN</em></Strong>, uma jornada que já me abriu muitos horizontes e me permitiu abrir meus olhos com relação a muitas oportunidades. Quando não estou codando, estou jogando, lendo ou praticando esportes :D</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class="container">
+  <div align="center">
+    <h3>Tecnologias que tenho afinidade</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
+  </div>
+  
+  <div align="center">
+    <h3>Conecte-se comigo</h3>
+    <a href="https://www.instagram.com/luiiz.rs/" target="_blank" style="margin: 0 15px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="Instagram logo"/>
+    </a>
+    <a href="https://www.linkedin.com/in/luiz-roberto-desenvolvedor/" target="_blank" style="margin: 0 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo"/>
+    </a>
+    <a href="https://discord.com/invite/#" target="_blank" style="margin: 0 15px;">
+      <img src="https://i.ebayimg.com/images/g/2CQAAOSwo41mrpGl/s-l1600.jpg" height="30" alt="Discord logo"/>
+    </a>
+  </div>
+</div>
+
+<br><br><br>
+
+## 📊 &nbsp;Projetos em Destaque
+- **[Sistema Escolar](https://github.com/luiizr/SistemaEscolar_poo.java)**: Um sistema completo em Java que permite criar turmas, adicionar alunos e calcular médias de notas.
+- **[Vetores Dinâmicos](https://github.com/luiizr/Vetores-Dinamicos)**: Implementação de vetores dinâmicos em C++ aplicada em exemplos práticos.
+
+
+<br><br>
+<br clear="both">
+
