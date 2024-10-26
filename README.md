@@ -9,7 +9,6 @@
 
 <p align="center">Estou cursando o 3º Semestre em <Strong><em>Análise e Desenvolvimento de Sistemas</em></Strong> pelo <Strong><em>IFRN</em></Strong>, uma jornada que já me abriu muitos horizontes e me permitiu abrir meus olhos com relação a muitas oportunidades. Quando não estou codando, estou jogando, lendo ou praticando esportes :D</p>
 
-<div class="container">
   <div align="center">
     <h3>Tecnologias que tenho afinidade</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
@@ -33,7 +32,6 @@
       <img src="https://i.ebayimg.com/images/g/2CQAAOSwo41mrpGl/s-l1600.jpg" height="30" alt="Discord logo"/>
     </a>
   </div>
-</div>
 
 <br><br><br>
 
