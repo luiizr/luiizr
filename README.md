@@ -10,7 +10,7 @@
 <p align="center">Estou cursando o 3º Semestre em <Strong><em>Análise e Desenvolvimento de Sistemas</em></Strong> pelo <Strong><em>IFRN</em></Strong>, uma jornada que já me abriu muitos horizontes e me permitiu abrir meus olhos com relação a muitas oportunidades. Quando não estou codando, estou jogando, lendo ou praticando esportes :D</p>
 
   <div align="center">
-    <h3>Tecnologias que tenho afinidade</h3>
+    <h3>Tecnologias que tenho afinidade </h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
