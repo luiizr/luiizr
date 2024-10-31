@@ -23,13 +23,13 @@
 <div align="center">
   <h3>Conecte-se comigo</h3>
   <div style="text-align: center;">
-    <a href="https://www.instagram.com/luiiz.rs/" target="_blank" style="margin: 0 15px;">
+    <a href="https://www.instagram.com/luiiz.rs/" target="_blank" rel="external" style="margin: 0 15px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="Instagram logo"/>
     </a>
-    <a href="https://www.linkedin.com/in/luiz-roberto-desenvolvedor/" target="_blank" style="margin: 0 15px;">
+    <a href="https://www.linkedin.com/in/luiz-roberto-desenvolvedor/" target="_blank" rel="external" style="margin: 0 15px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo"/>
     </a>
-    <a href="https://discord.com/invite/#" target="_blank" style="margin: 0 15px;">
+    <a href="https://discord.com/invite/#" target="_blank" rel="external" style="margin: 0 15px;">
       <img src="https://i.ebayimg.com/images/g/2CQAAOSwo41mrpGl/s-l1600.jpg" height="30" alt="Discord logo"/>
     </a>
   </div>
