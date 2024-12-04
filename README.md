@@ -41,9 +41,10 @@
 - **[Sistema Escolar](https://github.com/luiizr/SistemaEscolar_poo.java)**: Um sistema completo em Java que permite criar turmas, adicionar alunos e calcular médias de notas.
 - **[Vetores Dinâmicos](https://github.com/luiizr/Vetores-Dinamicos)**: Implementação de vetores dinâmicos em C++ aplicada em exemplos práticos.
 <br>
-<br clear="both">
+<!-- <br clear="both">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiizr/luiizr/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luiizr/luiizr/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luiizr/luiizr/output/github-contribution-grid-snake.svg">
 </picture>
+-->
