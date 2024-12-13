@@ -38,7 +38,7 @@
 <br><br><br><br><br>
 
 ## 📊 &nbsp;Projetos em Destaque
-- **[Sistema Escolar](https://github.com/luiizr/SistemaEscolar_poo.java)**: Um sistema completo em Java que permite criar turmas, adicionar alunos e calcular médias de notas.
+- **[Sistema Escolar](https://github.com/luiizr/SistemaEscolar_poo.java)**: Um sistema em Java que permite criar turmas, adicionar alunos e calcular médias de notas.
 - **[Vetores Dinâmicos](https://github.com/luiizr/Vetores-Dinamicos)**: Implementação de vetores dinâmicos em C++ aplicada em exemplos práticos.
 <br>
 <!-- <br clear="both">
