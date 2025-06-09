@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luiizr&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" height="130" alt="languages graph" />
 </div>
 
-<p align="center">Estou cursando o 3º Semestre em <Strong><em>Análise e Desenvolvimento de Sistemas</em></Strong> pelo <Strong><em>IFRN</em></Strong>, uma jornada que já me abriu muitos horizontes e me permitiu abrir meus olhos com relação a muitas oportunidades. Quando não estou codando, estou jogando, lendo ou praticando esportes :D</p>
+<p align="center">Estou cursando o 4º Semestre em <Strong><em>Análise e Desenvolvimento de Sistemas</em></Strong> pelo <Strong><em>IFRN</em></Strong>, uma jornada que já me abriu muitos horizontes e me permitiu abrir meus olhos com relação a muitas oportunidades. Quando não estou codando, estou jogando, lendo ou praticando esportes :D</p>
 
   <div align="center">
     <h3>Tecnologias que tenho afinidade</h3>
