@@ -76,7 +76,7 @@
   
   <!-- Project Cards -->
   <a href="https://github.com/luiizr/FitHub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luiizr&repo=Fithub&theme=angular&border_color=00bfbf" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luiizr&repo=Fithub&theme=react&border_color=00bfbf" />
   </a>
   <a href="https://github.com/luiizr/Vetores-Dinamicos">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luiizr&repo=Vetores-Dinamicos&theme=react&border_color=00bfbf" />
