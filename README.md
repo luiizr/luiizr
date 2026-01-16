@@ -28,7 +28,7 @@
 <br>
 
 <p align="center">
-  I'm currently in my 4th semester of <strong><em>Systems Analysis and Development</em></strong> at <strong><em>IFRN</em></strong>, a journey that has opened many horizons and shown me countless opportunities. When I'm not coding, you'll find me gaming, reading, or playing sports :D
+  I'm currently in my 5th semester of <strong><em>Systems Analysis and Development</em></strong> at <strong><em>IFRN</em></strong>, a journey that has opened many horizons and shown me countless opportunities. When I'm not coding, you'll find me gaming, reading, or playing sports :D
 </p>
 
 <br>
